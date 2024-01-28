@@ -1,2 +1,3 @@
 txt = "The best anime is free"
-print("expensive" not in txt)
+if "expensive" not in txt:
+    print("No, 'expensive' is NOT present")
