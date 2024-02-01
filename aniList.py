@@ -2,4 +2,6 @@ animelist = ["Dragonball", "Attack on Titan", "One Piece"]
 
 print(animelist)
 
-print(animelist[1])
+animelist.append("Black Clover")
+
+print(animelist)
