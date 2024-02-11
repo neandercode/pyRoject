@@ -1,7 +1,7 @@
-anime = ("Demon Slayer", "Bungo Stray Dogs", "Solo Leveling")
+anime = ("Demon Slayer", "Bungo Stray Dogs", "Solo Leveling", "My Hero Acadamia", "Berserk")
 
-(white, grey, black) = anime
+(white, *tropic, black) = anime
 
 print(white)
-print(grey)
+print(tropic)
 print(black)
