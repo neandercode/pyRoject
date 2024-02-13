@@ -1,2 +1,3 @@
 thisset = {"Black Clover", "Solo Leveling", "One Piece"}
-print("Solo Leveling" in thisset)
+thisset.add("DragonBall Z")
+print(thisset)
