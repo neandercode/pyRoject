@@ -1,3 +1,3 @@
 thisset = {"Black Clover", "Solo Leveling", "One Piece"}
-thisset.add("DragonBall Z")
+thisset.remove("Black Clover")
 print(thisset)
