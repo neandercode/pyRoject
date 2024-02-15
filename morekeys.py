@@ -4,7 +4,7 @@ car = {
     "year": 1989
 }
 
-x = car.keys()
+x = car.values()
 
 print(x) #before the change
 
